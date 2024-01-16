@@ -1,1 +1,3 @@
-# detaied-results-lsh-art
+# Appendix: Detailed Results for LSH-ART
+
+This appendix contains more detailed experimental data and corresponding statistical analysis values of the paper “Toward Cost-effective Adaptive Random Testing: An Approximate Nearest Neighbor Approach”. These data are intended to supplement the discussion and conclusions in the main text, providing a deeper understanding and validation. The data is presented in tables, which were not shown in the main text due to space limitations.
